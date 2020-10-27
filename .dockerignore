@@ -1,0 +1,7 @@
+.idea
+.vscode
+*.go
+*.md
+go.mod
+go.sum
+
